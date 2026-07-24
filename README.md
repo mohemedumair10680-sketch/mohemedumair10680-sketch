@@ -1,6 +1,5 @@
 <!-- ============================================================
      ❄️  WINTER BLUE THEME + LIVE SNOWFALL (100% GITHUB SAFE)
-     NO CSS BLOCKS. NO TABLES. PURE MARKDOWN IMAGES + 1 WRAPPER.
      ============================================================ -->
 
 <div align="center" style="position: relative; overflow: hidden; border-radius: 28px; padding: 25px 20px; background: #0a0e1a; border: 1px solid rgba(0, 180, 255, 0.25); box-shadow: 0 20px 60px rgba(0,0,0,0.9);">
@@ -70,7 +69,7 @@
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=00d4ff" />
     </p>
 
-    <!-- STATS & STREAK (FIXED - WILL DEFINITELY DISPLAY) -->
+    <!-- STATS & STREAK -->
     <h2 style="color: #7ec8e3; border-left: 6px solid #00d4ff; padding-left: 15px; text-align: left;">📊 Performance &amp; Streak</h2>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mohemedumair10680-sketch&amp;show_icons=true&amp;theme=dark&amp;bg_color=0a0e1a&amp;icon_color=00d4ff&amp;title_color=00d4ff&amp;text_color=ffffff&amp;hide_border=true" />
@@ -143,5 +142,5 @@
       ⭐ <strong>“Clean code, continuous learning, and consistency build the future.”</strong> ⭐
     </div>
 
-  </div> <!-- End content -->
-</div> <!-- End wrapper -->
+  </div>
+</div>
